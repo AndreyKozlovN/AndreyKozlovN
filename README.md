@@ -38,14 +38,12 @@
 ---
 
 ### :woman_technologist: Обо мне:
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- :telescope: Я работаю frontend-разрабочтиком и участвую в создании внешнего и внутреннего интерфейса для создания веб-приложений.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: В частности разработка новых компонентом, интеграция со сторонними сервисами, оптимизация производительности веб-приложений.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: В свободное время прохожу курсы, читаю технические статьи и слушаю подскасты.
 
 ---
 
@@ -63,6 +61,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyKozlovN&theme=react&locale=ru&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKozlovN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
